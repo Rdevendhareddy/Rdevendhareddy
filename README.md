@@ -1,55 +1,85 @@
-<!-- Profile Animation Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hey+I'm+Teja+Mallam;CS+Student+%7C+Aspiring+SDE+%7C+Data+Analyst;Transforming+Data+into+Actionable+Insights" alt="Typing SVG" />
-</h1>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://MallamTeja.github.io)
+
+<h1 align="center">Hi 👋, I'm Mallam Teja</h1>
+<h3 align="center">Aspiring SDE & Data Analyst | CS Undergrad @ MLRIT | Hyderabad</h3>
 
 ---
 
-## 👨‍💻 About Me  
+## 🚀 About Me  
+I enjoy learning by doing and I am passionate about transforming data into actionable insights.  
+Proficient in **Java, Python, and SQL**, I actively use tools like **Power BI, Tableau, and Figma** to solve problems and visualize data effectively.  
 
-I’m **Teja Mallam**, a Computer Science undergrad passionate about **data-driven problem solving** and **software engineering**. I enjoy learning by building real-world projects and exploring new technologies.  
-
-- Proficient in **Java, Python, SQL, and Data Visualization (Power BI, Tableau)**  
-- Actively participate in **hackathons, workshops, and conferences** to upskill and network  
-- Exploring **AI-driven tools, automations, and modern coding workflows** to stay ahead in the tech landscape  
-- I strongly believe in **learning by doing** and sharing knowledge through my projects and professional platforms  
+Beyond coding, I focus on **AI-driven automation, prompt engineering, and hackathons** to stay ahead in this AI-driven era.  
+I also participate in workshops, conferences, and competitions to expand my network and sharpen my technical edge.  
 
 ---
 
-## 🚀 Skills  
+## 🌐 Connect With Me  
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+<p align="left">
+<a href="https://www.linkedin.com/in/mallam-teja/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/> LinkedIn
+</a> |
+<a href="https://x.com/Mallam_Teja?s=09" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="30"/> X
+</a> |
+<a href="https://www.reddit.com/user/Salt_Owl5906/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="30"/> Reddit
+</a> |
+<a href="https://unstop.com/u/tejakqba8271" target="_blank">
+  <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/unstop-favicon.png" width="30"/> Unstop
+</a> |
+<a href="https://www.figma.com/@tejamallam" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="30"/> Figma
+</a> |
+<a href="https://github.com/MallamTeja" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="30"/> GitHub
+</a>
 </p>
 
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/> 
+---
+
+## 💻 Coding Profiles  
+
+<p align="left">
+<a href="https://leetcode.com/tejamallam026" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/> LeetCode
+</a> |
+<a href="https://www.codechef.com/users/tejamallam" target="_blank">
+  <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/6b8040d52e9e98c7c8c1d15d6bbf1b1a.png" width="30"/> CodeChef
+</a> |
+<a href="https://www.hackerrank.com/mallamteja" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="30"/> HackerRank
+</a> |
+<a href="https://codeforces.com/profile/tejamallam" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" width="30"/> CodeForces
+</a> |
+<a href="https://auth.geeksforgeeks.org/user/mallamsi8z/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="30"/> GeeksForGeeks
+</a>
 </p>
 
 ---
 
-## 🌐 Platforms & Socials  
+## 🛠️ Skills  
 
 <p align="center">
-  <a href="mailto:24r25a6705@mlrit.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-  <a href="https://www.linkedin.com/in/tejamallam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Mallam_Teja?s=09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/Salt_Owl5906/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://unstop.com/u/tejakqba8271"><img src="https://img.shields.io/badge/Unstop-5033FF?style=for-the-badge&logo=apachespark&logoColor=white"/></a>
-  <a href="https://www.figma.com/@tejamallam"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  <a href="https://github.com/MallamTeja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<!-- Row 1 -->
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40"/> Java &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/> Python &nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40"/> SQL &nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/> Power BI &nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/> Tableau &nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/> Figma &nbsp;&nbsp;
+
+<!-- Row 2 -->
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40"/> HTML &nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40"/> CSS &nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40"/> C &nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40"/> MongoDB &nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40"/> Git  
+
 </p>
 
 ---
@@ -57,18 +87,9 @@ I’m **Teja Mallam**, a Computer Science undergrad passionate about **data-driv
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🏆 Coding Profiles  
-
-<p align="center">
-  <a href="https://leetcode.com/tejamallam026/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/tejamallam"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/mallamteja"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/tejamallam"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/tejamallsi8z"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
