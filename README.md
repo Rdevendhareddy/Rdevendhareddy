@@ -1,7 +1,8 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://MallamTeja.github.io)
 
-<h1 align="center">Hi 👋, I'm Mallam Teja</h1>
-<h3 align="center">Aspiring SDE & Data Analyst | CS Undergrad @ MLRIT | Hyderabad</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mallam+Teja;Aspiring+SDE+%7C+Data+Analyst;CS+Undergrad+%40+MLRIT+%7C+Hyderabad" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -18,13 +19,13 @@ I also participate in workshops, conferences, and competitions to expand my netw
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="70"/>&nbsp;&nbsp; <!-- Java (Bigger) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="70"/>&nbsp;&nbsp; <!-- Java BIG -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="55"/>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>&nbsp;&nbsp; <!-- FIXED MySQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>&nbsp;&nbsp; <!-- MySQL -->
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="55"/>&nbsp;&nbsp; <!-- MongoDB beside MySQL -->
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp; <!-- NodeJS -->
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="55"/>&nbsp;&nbsp; <!-- ReactJS -->
 </p>
 
 <p align="center">
@@ -32,11 +33,9 @@ I also participate in workshops, conferences, and competitions to expand my netw
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="55"/>&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="65"/>&nbsp;&nbsp; <!-- Docker -->
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="55"/>
 </p>
 
@@ -47,7 +46,9 @@ I also participate in workshops, conferences, and competitions to expand my netw
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="85"/>&nbsp;&nbsp; <!-- PyTorch BIG -->
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="55"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="55"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>&nbsp;&nbsp; <!-- Power BI beside TF -->
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/> <!-- Tableau beside TF -->
 </p>
 
 ---
@@ -55,8 +56,8 @@ I also participate in workshops, conferences, and competitions to expand my netw
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=github-dark-green" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=dark&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" height="160"/>
 </p>
 
 ---
