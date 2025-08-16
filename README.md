@@ -16,55 +16,58 @@ I also participate in workshops, conferences, and competitions to expand my netw
 
 ## 🛠️ Skills  
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="45"/>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="45"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="45"/>
-</p>
+<p align="center" style="color:white;">
 
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="45"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="45"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="45"/>&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="45"/>
+<!-- Row 1 -->
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="55"/><br/>
+  <span style="color:white;">Java</span>
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/><br/>
+  <span style="color:white;">Python</span>
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="55"/><br/>
+  <span style="color:white;">SQL</span>
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="55"/><br/>
+  <span style="color:white;">Power BI</span>
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/><br/>
+  <span style="color:white;">Tableau</span>
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="55"/><br/>
+  <span style="color:white;">Figma</span>
+</span>
+
+<br/><br/>
+
+<!-- Row 2 -->
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="55"/><br/>
+  <span style="color:white;">HTML</span>
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="55"/><br/>
+  <span style="color:white;">CSS</span>
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="55"/><br/>
+  <span style="color:white;">JavaScript</span>
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="55"/><br/>
+  <span style="color:white;">MongoDB</span>
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="55"/><br/>
+  <span style="color:white;">Node.js</span>
+</span>
+
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=radical" height="150"/>
-</p>
-
----
-
-## 💻 Coding Profiles  
-
-<p align="center">
-  <a href="https://leetcode.com/tejamallam026" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/tejamallam" target="_blank"><img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/6b8040d52e9e98c7c8c1d15d6bbf1b1a.png" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/mallamteja" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/tejamallam" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/mallamsi8z/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40"/></a>
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mallam-teja/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/Mallam_Teja?s=09" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/Salt_Owl5906/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://unstop.com/u/tejakqba8271" target="_blank"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/unstop-favicon.png" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/@tejamallam" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/MallamTeja" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="40"/></a>
-</p>
