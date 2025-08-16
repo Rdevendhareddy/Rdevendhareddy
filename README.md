@@ -17,35 +17,37 @@
 ## 🛠 Skills  
 
 <p align="center">
+
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java" title="Java"/> <b>Java</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/> <b>Python</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" title="C"/> <b>C</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/> <b>JavaScript</b>  
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=c" title="C"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/> &nbsp;
 
   <!-- Web -->
   <br/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML"/> <b>HTML</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS"/> <b>CSS</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" title="React"/> <b>React</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/> <b>Node.js</b>  
+  <img src="https://skillicons.dev/icons?i=html" title="HTML"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/> &nbsp;
 
   <!-- Databases -->
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/> <b>MySQL</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/> <b>MongoDB</b>  
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/> &nbsp;
 
   <!-- Tools -->
   <br/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git"/> <b>Git</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/> <b>Figma</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/> <b>VS Code</b>  
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/> &nbsp;
 
   <!-- Analytics -->
   <br/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/> <b>Power BI</b> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/> <b>Tableau</b> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-r-coding-and-development-flat-flat-juicy-fish.png" title="R"/> <b>R</b>  
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/> &nbsp;
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-r-coding-and-development-flat-flat-juicy-fish.png" title="R"/> &nbsp;
+
 </p>
 
 ---
@@ -63,18 +65,6 @@
 
 ---
 
-## 🤝 Socials  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tejamallam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Mallam_Teja?s=09"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/Salt_Owl5906/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://unstop.com/u/tejakqba8271"><img src="https://img.shields.io/badge/Unstop-593196?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>
-  <a href="https://www.figma.com/@tejamallam"><img src="https://img.shields.io/badge/Figma_Profile-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-</p>
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -86,5 +76,13 @@
 ---
 
 ## 📫 Contact  
-- 📧 **24r25a6705@mlrit.ac.in**  
-- 📱 **+91 9392256662**  
+
+<p align="center">
+  <a href="mailto:24r25a6705@mlrit.ac.in"><img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/></a> &nbsp;
+  <a href="tel:+919392256662"><img src="https://img.icons8.com/color/48/phone.png" title="Phone"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/tejamallam"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/></a> &nbsp;
+  <a href="https://x.com/Mallam_Teja?s=09"><img src="https://img.icons8.com/color/48/twitter--v1.png" title="X / Twitter"/></a> &nbsp;
+  <a href="https://www.reddit.com/user/Salt_Owl5906/"><img src="https://img.icons8.com/color/48/reddit.png" title="Reddit"/></a> &nbsp;
+  <a href="https://unstop.com/u/tejakqba8271"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerearth-is-a-technology-company-that-provides-innovation-and-skills-assessment-platform-logo-color-tal-revivo.png" title="Unstop"/></a> &nbsp;
+  <a href="https://www.figma.com/@tejamallam"><img src="https://skillicons.dev/icons?i=figma" title="Figma"/></a> &nbsp;
+</p>
