@@ -1,7 +1,5 @@
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mallam+Teja;Aspiring+SDE+%7C+Data+Analyst;CS+Undergrad+%40+MLRIT+%7C+Hyderabad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00CC00&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mallam+Teja;Aspiring+SDE+%7C+Data+Analyst;CS+Undergrad+%40+MLRIT+%7C+Hyderabad" alt="Typing SVG" />
 </h1>
 
 ---
@@ -56,8 +54,8 @@ I also participate in workshops, conferences, and competitions to expand my netw
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=dark&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=00CC00&icon_color=00CC00&text_color=00CC00&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=dark&background=0D1117&ring=00CC00&fire=00CC00&currStreakLabel=00CC00&sideLabels=00CC00&dates=00CC00" height="160"/>
 </p>
 
 ---
@@ -66,7 +64,7 @@ I also participate in workshops, conferences, and competitions to expand my netw
 
 <p align="center">
   <a href="https://leetcode.com/tejamallam026" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/tejamallam" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/codechef-1.svg" width="85"/></a>&nbsp;&nbsp; <!-- FIXED CodeChef -->
+  <a href="https://www.codechef.com/users/tejamallam" target="_blank"><img src="https://img.icons8.com/color/96/000000/codechef.png" width="75"/></a>&nbsp;&nbsp; <!-- FIXED CodeChef -->
   <a href="https://www.hackerrank.com/mallamteja" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="55"/></a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/tejamallam" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png" width="85"/></a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/mallamsi8z/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="55"/></a>
