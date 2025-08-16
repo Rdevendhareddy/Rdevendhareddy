@@ -1,70 +1,82 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://MallamTeja.github.io)
+<h1 align="center">Hi 👋, I'm Teja Mallam</h1>
+<h3 align="center">CS Undergrad • Aspiring SDE (20–30 LPA) • Data Analyst (15 LPA)</h3>
 
-<h1 align="center">Hey 👋, I'm Teja Mallam</h1>
-<h3 align="center">CSD Undergrad • Aspiring SDE / Data Analyst • Hyderabad</h3>
-
----
-
-## 📊 Dashboard  
-
-- 🎓 **B.Tech (CSD)** @ MLR Institute of Technology (2024–2027)  
-- 💡 Passionate about **Data Analysis, Full-Stack Development, and AI**  
-- 🚀 Hands-on with **Java, Python, SQL, MERN, Power BI, Tableau**  
-- 🏆 Hackathon Participant | Workshop Organizer | Campus Ambassador  
-- 🔥 Always exploring **AI-driven tools**: Prompt Engineering, n8n Automations, Vibe Coding  
+<p align="center">
+  <img src="https://github.com/MallamTeja/MallamTeja/blob/main/assets/typing.gif" alt="Animated Banner" width="80%"/>
+</p>
 
 ---
 
-## 🧑‍💻 Coding Profiles  
-
-- 🟠 **LeetCode** → [tejamallam026](https://leetcode.com/tejamallam026)  
-- 🟤 **CodeChef** → [tejamallam](https://www.codechef.com/users/tejamallam)  
-- 🟢 **HackerRank** → [mallamteja](https://www.hackerrank.com/mallamteja)  
-- 🔵 **CodeForces** → [tejamallam](https://codeforces.com/profile/tejamallam)  
-- ⚫ **GitHub** → [MallamTeja](https://github.com/MallamTeja)  
-- 🟣 **GeeksForGeeks** → [tejamallsi8z](https://auth.geeksforgeeks.org/user/tejamallsi8z)  
+## 🚀 About Me  
+- 🎯 Passionate about **Java, DSA, and Full Stack Development**  
+- 📊 Skilled in **Data Analysis (Power BI, Tableau, SQL, Python)**  
+- ⚡ Hackathon Enthusiast & Continuous Learner in **AI + Automation**  
+- 💡 Exploring **Prompt Engineering & Domain-Specific LLMs**  
 
 ---
 
 ## 🛠 Skills  
 
-**Languages:** Java, Python, SQL, JavaScript, R, C  
-**Databases:** MySQL, MongoDB  
-**Frameworks & Tools:** MERN, Power BI, Tableau, Docker, Git, Figma, Excel  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-
----
-
-## 📬 Contact  
-
-- 📧 Email: [24r25a6705@mlrit.ac.in](mailto:24r25a6705@mlrit.ac.in)  
-- 📱 Phone: +91-9392256662  
-- 🔗 LinkedIn: [Teja Mallam](https://linkedin.com/in/tejamallam)  
-
----
-
-## 📈 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=radical" alt="Teja's GitHub Stats" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/> <b>Java</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/> <b>Python</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" title="C"/> <b>C</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/> <b>JavaScript</b>  
+
+  <!-- Web -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML"/> <b>HTML</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS"/> <b>CSS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React"/> <b>React</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/> <b>Node.js</b>  
+
+  <!-- Databases -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/> <b>MySQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/> <b>MongoDB</b>  
+
+  <!-- Tools -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/> <b>Git</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/> <b>Figma</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/> <b>VS Code</b>  
+
+  <!-- Analytics -->
+  <br/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/> <b>Power BI</b> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/> <b>Tableau</b> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-r-coding-and-development-flat-flat-juicy-fish.png" title="R"/> <b>R</b>  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=radical" alt="Teja's GitHub Streak" />
-</p>
+---
+
+## 🌐 Coding Profiles  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallamTeja&layout=compact&theme=radical" alt="Teja's Top Languages" />
+  <a href="https://leetcode.com/tejamallam026"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/tejamallam"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/mallamteja"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/tejamallam"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://github.com/MallamTeja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/mallamteja"><img src="https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🏆 Achievements  
+## 📊 GitHub Stats  
 
-- ⚡ **Build With India Hackathon 2025** → Top 20% out of 25,000 teams  
-- 🥈 **Power BI Workshop** → 2nd Place among 200+ participants  
-- 🚀 Organized & Hosted 2+ hackathons/workshops with 300+ attendees  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MallamTeja&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MallamTeja&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallamTeja&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
-<p align="center">⚡ “Code. Analyze. Build. Repeat.” ⚡</p>
+## 📫 Contact  
+- 📧 **24r25a6705@mlrit.ac.in**  
+- 📱 **+91 9392256662**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tejamallam) | [GitHub](https://github.com/MallamTeja)  
+
+---
