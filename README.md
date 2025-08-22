@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 I enjoy learning by doing and I am passionate about transforming data into actionable insights.  
-Proficient in **Java, Python, and SQL**, I actively use tools like **Power BI, Tableau, and Figma** to solve problems and visualize data effectively.  
+Proficient in **Java, Python, and SQL**, I actively use tools like **Power BI, Tableau** to solve problems and visualize data effectively.  
 
 Beyond coding, I focus on **AI-driven automation, prompt engineering, and hackathons** to stay ahead in this AI-driven era.  
 I also participate in workshops, conferences, and competitions to expand my network and sharpen my technical edge.  
