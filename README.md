@@ -5,7 +5,12 @@
 <p align="center"><strong>Data Analytics • Fullstack Developer • AI Enthusiast</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=%2332CD32&center=true&vCenter=true&width=900&repeat=true&lines=Hello%20%F0%9F%91%8B%2C%20I'm%20R.Devendhar%20Reddy%3BData%20Analytics%3BFullstack%20Developer%3BAI%20Enthusiast%3BPython%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript%3BPandas%20%7C%20NumPy%20%7C%20Matplotlib%3BAPIs%20%7C%20SQL%20%7C%20MongoDB%3BGitHub%20%7C%20Docker%20%7C%20Power%20BI" alt="Typing SVG"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?![Typing SVG](https://readme-typing-svg.demolab.com?<h1 align="center">Hi, I'm R. Devendhar Reddy 👋</h1>
+<p align="center"><strong>Data Analytics • Fullstack Developer • AI Enthusiast</strong></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=%2332CD32&center=true&vCenter=true&width=900&repeat=true&lines=Hello%20%F0%9F%91%8B%2C%20I'm%20R.Devendhar%20Reddy%3BData%20Analytics%3BFullstack%20Developer%3BAI%20Enthusiast%3BPython%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript%3BPandas%20%7C%20NumPy%20%7C%20Matplotlib%3BAPIs%20%7C%20SQL%20%7C%20MongoDB%3BGitHub%20%7C%20Docker%20%7C%20Power%20BI" alt="Typing SVG"/>
+</p>
 
 </p>
 
