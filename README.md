@@ -31,8 +31,7 @@ I enjoy **vibe coding**, solving real-world problems, and building smart, scalab
 ## 🛠️ Skills  
 
 <p align="center">
- 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/>&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>&nbsp;&nbsp;
   <img src="https://s3.amazonaws.com/codechef_shared/press/CodeChef_Logo.png" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55"/>&nbsp;&nbsp;
