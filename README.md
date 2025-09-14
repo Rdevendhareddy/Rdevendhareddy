@@ -63,16 +63,6 @@ I enjoy **vibe coding**, solving real-world problems, and building smart, scalab
 
 ---
 
-## 📊 GitHub Stats  
-
-<p ## 📊 GitHub Stats
-
-![Devendhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDevendharReddy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDevendharReddy&layout=compact&theme=radical)
-
-</p>
-
 ---
 
 ## 💻 Coding Profiles  
