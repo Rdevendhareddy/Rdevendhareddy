@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?<img
   src="https://readme-typing-svg.herokuapp.com?<img
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=%2332CD32&center=true&vCenter=true&width=800&repeat=true&lines=Hello%20%F0%9F%91%8B%2C%20I%27m%20R.Devendhar%20Reddy%3BData%20Analytics%3BFullstack%20Dev%3BAI%20Enthusiast"
-  alt="Typing SVG"
-/>
-
-/>
+  alt="Typing SVG"/>
 
 </p>
 
