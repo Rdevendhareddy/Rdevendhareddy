@@ -17,12 +17,14 @@
 ## 🚀 About Me  
 ## 👨‍💻 About Me  
 
-I'm *R. Devendhar Reddy*, a Computer Science Engineering student passionate about **AI, Data Analytics, Automation, and Full-Stack Development**.  
-I enjoy **vibe coding**, solving problems, and building scalable solutions while strengthening my **communication and teamwork skills**.  
+## 👨‍💻 About Me  
+
+I'm **R. Devendhar Reddy**, an **AI & ML student** with interests in **Data Analytics, Automation, and Full-Stack Development**.  
+I enjoy **vibe coding**, solving real-world problems, and building smart, scalable solutions while enhancing my **communication and teamwork skills**.  
 
 🔹 Skilled in **Python, JavaScript, SQL, MongoDB, Pandas, NumPy, Power BI, Docker**  
 🔹 Experienced in **Hackathons, automation, and collaborative projects**  
-🔹 Focused on growing in **AI/ML, Software Development, and Automation**  
+🔹 Focused on growing in **AI/ML research, Data Science, and Software Development**  
 
 ---
 
