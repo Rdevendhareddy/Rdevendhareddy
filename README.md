@@ -60,8 +60,11 @@ I also participate in workshops, Tech conferences, and competitions to expand my
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  ![Devendhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDevendharReddy&show_icons=true&theme=radical)
+<p ## 📊 GitHub Stats
+
+![Devendhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDevendharReddy&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDevendharReddy&layout=compact&theme=radical)
 
 </p>
 
