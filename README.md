@@ -13,10 +13,6 @@
 
 
 ---
-
-## 🚀 About Me  
-## 👨‍💻 About Me  
-
 ## 👨‍💻 About Me  
 
 I'm **R. Devendhar Reddy**, an **AI & ML student** with interests in **Data Analytics, Automation, and Full-Stack Development**.  
