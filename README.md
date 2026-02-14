@@ -77,7 +77,7 @@ I enjoy **vibe coding**, solving real-world problems, and building smart, scalab
 
 <p align="center">
   <a href="https://www.linkedin.com/in/r.devendhar reddy/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/Mallam_Teja?s=09" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="55"/></a>&nbsp;&nbsp;
+  <a href="https://x.com/Ghreddy37040680?s=09" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="55"/></a>&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/Salt_Owl5906/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="55"/></a>&nbsp;&nbsp;
   <a href="https://github.com/Rdevendharreddy" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="55"/></a>
 </p>
