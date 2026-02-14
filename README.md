@@ -65,10 +65,9 @@ I enjoy **vibe coding**, solving real-world problems, and building smart, scalab
 ## 💻 Coding Profiles  
 
 <p align="center">
-  <a href="https://leetcode.com/tejamallam026" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/tejamallam" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/press/CodeChef_Logo.png" width="55"/></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/mallamteja" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="55"/></a>&nbsp;&nbsp;
-   <a href="https://auth.geeksforgeeks.org/user/mallamsi8z/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="55"/></a>
+  <a href="https://leetcode.com/u/p2HOI8fT9j/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/devendharreddy" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/press/CodeChef_Logo.png" width="55"/></a>&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/reddygarigaxbb8" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="55"/></a>
 </p>
 
 ---
