@@ -56,7 +56,7 @@ I enjoy **vibe coding**, solving real-world problems, and building smart, scalab
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="85"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>&nbsp;&nbsp;
- />
+
 
 ---
 
