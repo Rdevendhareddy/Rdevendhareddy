@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?<img
   src="https://readme-typing-svg.herokuapp.com?<img
-  src="https://readme-typing-svg.herokuapp.com?<h1 align="center">Hi, I'm R. Devendhar Reddy 👋</h1>
-<p align="center"><strong>Data Analytics • python Developer • AI&ml</strong></p>
+  src="https://readme-typing-svg.herokuapp.com?<h1 align="center">Hi, I'm P.Anjaneyachari 👋</h1>
+<p align="center"><strong>Web Developer • python Developer • AI&ml</strong></p>
 
 <p align="center">
   <!-- Light Golden Yellow -->
@@ -19,7 +19,7 @@
 ---
 ## 👨‍💻 About Me  
 
-I'm **R. Devendhar Reddy**, an **AI & ML student** with interests in **Data Analytics, Automation, and Full-Stack Development**.  
+I'm **P.Anjaneyachari**, an **AI & ML student** with interests in **web development, Artificial intelligence, and Full-Stack Development**.  
 I enjoy **vibe coding**, solving real-world problems, and building smart, scalable solutions while enhancing my **communication and teamwork skills**.  
 
 🔹 Skilled in **Python, JavaScript, SQL, MongoDB, Pandas, NumPy, Power BI, Docker**  
